@@ -2,6 +2,9 @@ ReadMe:       KiruthigaSekar
 Contract Directory Name: ..\CappedToken\contracts
 Migrations DirectoryName: ..\CappedToken\migrations
 Clarification:  As this is a large Reademe file, be patient to scroll down as it includes all the steps and the detailed solution :) Thanks
+
+P.S: Not all the node_modules have been uploaded since there is a restriction on number of files which can be uploaded in github 
+
 Installation:
 
 Node js v8.9.0 
